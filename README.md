@@ -1,7 +1,3 @@
-Coursera course: HTML, CSS, and Javascript for Web Developers, Module 3 Coding Assignment, completed.
-
-link: https://selenearzola.github.io/coursera-course-module3-assignment3/
-
 Time to complete: About 1 hour or less.
 
 Ask questions in Discussions if you get stuck! We are all learning, and going through getting stuck and then unstuck (even with someone's help) can be a very valuable learning experience!
